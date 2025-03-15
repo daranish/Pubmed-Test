@@ -21,7 +21,7 @@ This project uses Poetry for dependency management. To install the necessary dep
 
 Clone the repository:
 
-git clone https://github.com/your-username/pubmed-fetcher.git
+git clone https://github.com/daranish/Pubmed-Test.git
 cd pubmed-fetcher
 
 Install dependencies using Poetry:
